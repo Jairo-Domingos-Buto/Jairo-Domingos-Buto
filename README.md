@@ -1,4 +1,4 @@
-# 👋 Olá, sou [Jairo Buto]!
+# 👋 Olá, sou Jairo Buto!
 
 Sou um desenvolvedor web apaixonado por criar aplicações web dinâmicas e responsivas. Com uma sólida base em tecnologias tanto de front-end quanto de back-end, adoro transformar ideias em realidade através de código limpo e eficiente.
 
