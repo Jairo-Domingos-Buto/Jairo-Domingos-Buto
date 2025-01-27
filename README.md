@@ -47,4 +47,3 @@ Sou um desenvolvedor web apaixonado por criar aplicações web dinâmicas e resp
   </a>
 </div>
 
-<img src="https://raw.githubusercontent.com/Jairo-Domingos-Buto/Jairo-Domingos-Buto/output/snake.svg" alt="Snake animation" />
