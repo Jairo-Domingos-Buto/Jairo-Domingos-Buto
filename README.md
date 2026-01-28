@@ -27,7 +27,7 @@ const jairo = {
     função: "Desenvolvedor Full Stack",
     código: ["JavaScript", "PHP", "HTML", "CSS"],
     ferramentas: ["React", "Laravel", "Node.js", "Tailwind CSS"],
-    arquitetura: ["SPA", "MVC", "APIs REST"],
+    arquitetura: ["Clean Architecture", "MVC", "APIs REST"],
     desafioAtual: "Aprimorando habilidades em arquitetura de software",
     curiosidade: "Acredito que o código limpo é poesia em forma de lógica"
 };
